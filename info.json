@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "25ceea1dd1471b9ce883df1819de706adb0b36d4",
+    "author": "Maëlle Salmon <maelle.salmon@yahoo.se>",
+    "time": "2023-01-11 16:06:55",
+    "files": 1,
+    "merge": false,
+    "message": "typo fix (#21)\n\n"
+  },
+  "repo": "https://github.com/ropensci/phruta",
+  "pkg": "phruta"
+}
