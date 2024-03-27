@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "0000972691748baa5d178c491b660aec18b9ba39",
+    "author": "Cristian Román-Palacios <cromanpa94@gmail.com>",
+    "time": "2023-05-02 18:41:44",
+    "files": 3,
+    "merge": false,
+    "message": "Updating to r@v2\n"
+  },
+  "repo": "https://github.com/ropensci/phruta",
+  "pkg": "phruta"
+}

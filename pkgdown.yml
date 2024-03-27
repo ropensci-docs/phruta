@@ -1,0 +1,18 @@
+pandoc: 2.16.2
+pkgdown: 2.0.7
+pkgdown_sha: ~
+articles:
+  Exporting_data_phruta: Exporting_data_phruta.html
+  Future_phruta: Future_phruta.html
+  Phruta_advanced: Phruta_advanced.html
+  Phylogenetics_phruta: Phylogenetics_phruta.html
+  Using_phruta: Using_phruta.html
+  package_acknowledgements: package_acknowledgements.html
+  phruta: phruta.html
+  phruta_targetgenes: phruta_targetgenes.html
+  usando_phruta: usando_phruta.html
+last_built: 2024-03-27T07:22Z
+urls:
+  reference: https://docs.ropensci.org/phruta/reference
+  article: https://docs.ropensci.org/phruta/articles
+
