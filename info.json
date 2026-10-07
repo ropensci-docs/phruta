@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "f84c8136d5e6ec30ec6c2e46b20421adf2673418",
+    "author": "Cristian Román <cromanpa94@gmail.com>",
+    "time": "2026-09-15T14:51:34Z",
+    "files": 4,
+    "merge": false,
+    "message": "Testthat offline (#25)\n\n* skip if offline\n\n* skip if on ci added"
+  },
+  "repo": "https://github.com/ropensci/phruta",
+  "pkg": "phruta",
+  "time": "2026-10-07T09:18:46Z"
+}
